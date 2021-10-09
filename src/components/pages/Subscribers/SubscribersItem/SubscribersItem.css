@@ -1,0 +1,15 @@
+.subscribers_user-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 15px;
+    object-fit: cover;
+}
+.subscribers_item-list {
+    display: flex;
+    align-items: center;
+    padding: 45px 10px 0;
+}
+.subscribers_user-name {
+    font-size: 15px;
+}
