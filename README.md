@@ -1,3 +1,7 @@
+This is a clone of popular social network Instagram. I used Firebase for backend and React, Redux for frontend part. It is a study project. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
